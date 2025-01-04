@@ -6,7 +6,7 @@ The **Megaverse Builder** project is part of the [Crossmint](https://www.crossmi
 
 ## Directory Structure
 
-```
+```python
 megaverse_builder/
 ├── megaverse/               # Core modules and utilities
 │   ├── __init__.py

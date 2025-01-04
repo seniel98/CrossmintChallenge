@@ -108,12 +108,6 @@ Deletes specified entities from the map. [View the file](main/clear_map.py)
 
 Fetches and displays the goal map for debugging or verification purposes. [View the file](main/fetch_goal_map.py)
 
-Fetches and displays the goal map for debugging or verification purposes.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License.
